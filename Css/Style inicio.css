@@ -1,0 +1,27 @@
+body{
+    background-image: url(../Images/fondo.jpeg);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 225px;
+    font-style: inherit;
+    text-shadow: 5px 5px 5px black;
+    margin-top: 10%;
+}
+
+.navbar-brand{
+    color: aliceblue;
+    
+}
+
+.container-fluid{
+    background-color: aqua;
+}
+
+.nav-link{
+    color: black;
+}
+

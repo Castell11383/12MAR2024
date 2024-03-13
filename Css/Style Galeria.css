@@ -1,0 +1,68 @@
+body{
+    background-color: green;
+    background-image: url(../Images/Galeria/Fondo.jpg);
+}
+
+.container{
+    background-color: rgba(240, 248, 255, 0.407);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid white;
+    color: red;
+    margin-top: 5%;
+    padding: 5px;
+    box-shadow: 10px 10px 10px 10px blue;
+}
+
+.row{
+    margin: 15px;
+    color: black;
+}
+
+.col{
+    border: 5px;
+    border-style: inset;
+    border-color: aliceblue;
+    padding: 0.5%;
+    box-shadow: 10px 10px 10px 10px rgba(0, 128, 0, 0.522);
+}
+
+.col-4{
+    border: 5px;
+    border-style: inset;
+    border-color: aliceblue;
+    padding: 0.5%;
+    box-shadow: 10px 10px 10px 10px rgba(0, 128, 0, 0.522);
+}
+
+.col-3{
+    border: 5px;
+    border-style: inset;
+    border-color: aliceblue;
+    padding: 0.5%;
+    box-shadow: 10px 10px 10px 10px rgba(0, 128, 0, 0.522);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 225px;
+    font-style: inherit;
+    text-shadow: 5px 5px 5px black;
+    margin-top: 10%;
+}
+
+.navbar-brand{
+    color: aliceblue;
+    
+}
+
+.container-fluid{
+    background-color: aqua;
+}
+
+.nav-link{
+    color: black;
+}
